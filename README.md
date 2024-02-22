@@ -2,9 +2,9 @@
 **Description**
 This project aims to predict potato prices using machine learning techniques. It utilizes historical potato price data to train a decision tree regression model and make predictions on future prices.
 
-**Table of Contents**
-Installation
-Usage
+**Table of Contents:**
+Installation,
+Usage,
 Contributing
 
 **Installation**
